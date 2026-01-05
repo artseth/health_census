@@ -78,16 +78,3 @@ nav {
     max-width: 400px;
     word-wrap: break-word;
   }
-#result{
-  height: 400px;
-  width: 500px;
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  flex-direction: column;
-}
-  #result img{
-    width: 200px;
-    height: 100px;
-  }
-  
